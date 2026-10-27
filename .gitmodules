@@ -1,0 +1,12 @@
+[submodule "nspanel"]
+	path = nspanel
+	url = git@github.com:Vladgobelen/nspanel.git
+[submodule "nsbridge"]
+	path = nsbridge
+	url = git@github.com:Vladgobelen/nsbridge.git
+[submodule "nswm"]
+	path = nswm
+	url = git@github.com:Vladgobelen/nswm.git
+[submodule "ns-widgets-lua"]
+	path = ns-widgets-lua
+	url = git@github.com:Vladgobelen/ns-widgets-lua.git
